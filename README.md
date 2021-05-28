@@ -1,9 +1,9 @@
 # Final-Arduino-Notebook
  
  
-# LED Blink Revisited
+ LED Blink Revisited
 
-# Description 
+ Description 
 This assignment we had to make a led light blink, and to do that we had to find a code that would work with it.
 
 
@@ -11,80 +11,80 @@ This assignment we had to make a led light blink, and to do that we had to find 
 https://create.arduino.cc/editor/Mohamedafk420/7cfb4b57-a72e-4226-bc2f-0a63b2f41c8d
 
 
-# Image/Wiring Diagram
+ Image/Wiring Diagram
 
 
 
-# Reflection
+ Reflection
 This assignment was fairly easy
 
 
 
-# Finite LED Blinker
+ Finite LED Blinker
 
-# Description
-
-
-# Link to Code
+ Description
 
 
-# Image/Wiring Diagram
+ Link to Code
 
 
-# Reflection
+ Image/Wiring Diagram
 
 
-
-
-
-# Hello Functions
-
-# Description
-
-
-# Link to Code
-
-
-# Image/Wiring Diagram
-
-
-# Reflection
+ Reflection
 
 
 
 
 
+ Hello Functions
 
-# NewPing()
-
-# Description
-
-
-# Link to Code
+ Description
 
 
-# Image/Wiring Diagram
+ Link to Code
 
 
-# Reflection
+ Image/Wiring Diagram
+
+
+ Reflection
 
 
 
 
 
 
-# Photoresistor
+ NewPing()
 
-# Description
-
-
-# Link to Code
+ Description
 
 
-# Image/Wiring Diagram
+ Link to Code
 
 
-# Reflection
+ Image/Wiring Diagram
+
+
+ Reflection
+
+
+
+
+
+
+ Photoresistor
+
+ Description
+
+
+ Link to Code
+
+
+ Image/Wiring Diagram
+
+
+ Reflection
 
 
 
